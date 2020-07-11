@@ -1,6 +1,8 @@
 # Telecom-Churn-Modelling
 
-"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." 
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs."
+
+The dataset is taken from kaagle https://www.kaggle.com/blastchar/telco-customer-churn and is also attached in this repo.
 
 # Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
