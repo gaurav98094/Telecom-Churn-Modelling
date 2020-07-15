@@ -16,3 +16,6 @@ The data set includes information about:
 <li>Demographic info about customers – gender, age range, and if they have partners and dependents</li>
 
 </ul>
+
+
+
